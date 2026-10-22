@@ -31,13 +31,9 @@ A responsive, dark-themed Kanban task management application built with React, V
 
 ## 📸 Screenshots
 
-To showcase your project, add a screenshot of the dashboard to your repository.
+## 📸 Screenshots
 
-```md
 ![TaskFlow Dashboard](./screenshots/dashboard.png)
-```
-
-Make sure the screenshot exists at that path before using it.
 
 ## 📂 Project Structure
 
